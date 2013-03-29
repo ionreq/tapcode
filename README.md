@@ -21,7 +21,7 @@ next is the tap code which turns out to have ca. 6 bit efficiency which i'm very
 considering that most codelets have 3 bits fixed, i.e. the first bit is 1 and the last two 0, this is an awesome result.
 
 with morse code there is a problem: the pure bit efficiency is very low, over 8 bit, but:
-in practice, a dit would correspond to a tap in the tap code, so for comparing efficency in reality, one would have to halve the bit efficiency.
+in practice, a dit would correspond to a tap in the tap code, so for comparing efficiency in reality, one would have to halve the bit efficiency.
 this is due to the fact that dit and dah are really two different sounds,
 and the premise of the tap code was that you can't have that, but only one single sound.
 so, i'm not quite sure how to interpret this result, maybe this just shows that morse and tap code are not really comparable.
