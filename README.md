@@ -26,3 +26,12 @@ this is due to the fact that dit and dah are really two different sounds,
 and the premise of the tap code was that you can't have that, but only one single sound.
 so, i'm not quite sure how to interpret this result, maybe this just shows that morse and tap code are not really comparable.
 
+the polybius square in its original form has an efficiency of around 7.7
+and this compares well with the tap code.
+it can be made more efficient by assigning the short codes to the more frequent letters,
+and by using the diagonals which correspond to constant code length instead of just filling the square.
+then the efficiency increases to 6.5 bit which is quite good, compared to the 6 bit of the tap code.
+note however that this optimized polybius square tap code is not very much easier to learn than my tap code.
+so if you are willing to learn a tap code, mine is still the best choice.
+
+
