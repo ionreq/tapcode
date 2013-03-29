@@ -1,7 +1,7 @@
 tapcode
 =======
 
-all codes concerning tap code.
+all sources concerning tap code.
 
 at the moment there is only one, namely a comparison of code efficiency of the tap code and various others.
 
