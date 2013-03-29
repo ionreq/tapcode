@@ -33,5 +33,5 @@ and by using the diagonals which correspond to constant code length instead of j
 then the efficiency increases to 6.5 bit which is quite good, compared to the 6 bit of the tap code.
 note however that this optimized polybius square tap code is not very much easier to learn than my tap code.
 so if you are willing to learn a tap code, mine is still the best choice.
-
+furthermore it has the advantage over the polybius one, that it is completely based on even numbers of taps.
 
