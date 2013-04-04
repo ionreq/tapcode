@@ -25,6 +25,7 @@ in practice, a dit would correspond to a tap in the tap code, so for comparing e
 this is due to the fact that dit and dah are really two different sounds,
 and the premise of the tap code was that you can't have that, but only one single sound.
 so, i'm not quite sure how to interpret this result, maybe this just shows that morse and tap code are not really comparable.
+(however you can do the following calculation: 2^x=3^4.13 which leads to 6.5 bits.)
 
 the polybius square in its original form has an efficiency of around 7.7
 and this compares well with the tap code.
